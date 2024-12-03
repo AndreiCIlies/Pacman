@@ -1,4 +1,4 @@
-# Pacman
+# Pacman Game
 ![image](https://github.com/user-attachments/assets/99177ab3-59dd-49ea-8861-194251cc5aa6)
 
 ## Description
